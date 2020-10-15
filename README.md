@@ -1,5 +1,20 @@
-### Hi there 👋
+<div>
+          <a href="https://land.tech/">
+            <img
+              alt="LandTech"
+              src="https://repository-images.githubusercontent.com/304360614/f1710800-0f02-11eb-964e-fad1ee9005f8"
+            />
+          </a>
 
+</div>
+
+
+### Hey there! 👋
+
+- 🔭 I’m currently working with the LandInsight features team for LandTech
+- 💻 I largely work with Vue, Apollo, Node.js, Storybook, Mapbox, Cypress, Jest
+- 🕒 I've previously worked with Java, Python, Gatsby, Angular, AngularJs, Openlayers, Leaflet
+- 🌱 I’m currently learning Next.js, Styled System and Stencil.js
 <!--
 **piemasters/piemasters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
