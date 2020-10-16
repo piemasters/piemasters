@@ -12,8 +12,8 @@
 ### Hey there! 👋
 
 - 🔭 I’m currently working with the LandInsight features team for LandTech
-- 💻 I largely work with Vue, Apollo, Node.js, Storybook, Mapbox, Cypress, Jest
-- 🕒 I've previously worked with Java, Python, Gatsby, Angular, AngularJs, Openlayers, Leaflet
+- 💻 I largely work with Vue, Node.js, GraphQL, Storybook, Mapbox, Cypress, Jest
+- 🕒 I've previously worked with Java, Python, Gatsby, Angular, Redux, AngularJs, Openlayers, Leaflet
 - 🌱 I’m currently learning Next.js, Styled System and Stencil.js
 <!--
 **piemasters/piemasters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
