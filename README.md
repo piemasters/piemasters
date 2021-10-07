@@ -1,4 +1,4 @@
-[![David Norton's GitHub stats](https://github-readme-stats.vercel.app/api?username=piemasters&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piemasters&exclude_repo=University,Spring-Boot-Training&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![David Norton's GitHub stats](https://github-readme-stats.vercel.app/api?username=piemasters&count_private=true&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piemasters&exclude_repo=University,Spring-Boot-Training&langs_count=8&layout=compact&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hey there! 👋
 
